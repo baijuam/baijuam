@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./neuverk-banner.png" alt="Amal Baiju — Infrastructure, Security and Intelligent Systems" width="100%" />
+</div>
 <div align="center">
 
 # Amal Baiju
