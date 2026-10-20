@@ -66,7 +66,7 @@ Beyond infrastructure, I'm building **Neuverk**, a collection of software produc
 
 ## Featured Projects
 
-### 🔐 VaultDoc — AI Compliance Intelligence
+### 🔐 Grivyo — AI Compliance Intelligence
 
 An AI-powered compliance platform being developed to connect information security governance with real enterprise infrastructure.
 
