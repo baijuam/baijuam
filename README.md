@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./neuverk-banner.png" alt="Amal Baiju — Infrastructure, Security and Intelligent Systems" width="100%" />
+  <img src="./F1CE82E1-CB5B-485C-90FE-AD8353DE262F.png" alt="Amal Baiju — Infrastructure, Security and Intelligent Systems" width="100%" />
 </div>
 <div align="center">
 
